@@ -6,7 +6,7 @@
  *   length: The length of the rectangle.
  *   width: The width of the rectangle.
  *
- *	Return a number denoting the rectangle's area.
+ *	 Return a number denoting the rectangle's area.
  **/
 
 function getArea(length, width) {
